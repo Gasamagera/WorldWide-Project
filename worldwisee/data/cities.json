@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "d1c0",
+      "cityName": "Villanueva del Fresno",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-12T21:06:28.061Z",
+      "notes": "hey",
+      "position": {
+        "lat": "38.2920375555974",
+        "lng": "-7.0777148273803485"
+      }
+    },
+    {
+      "id": "44bf",
+      "cityName": "Granon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-16T18:13:45.725Z",
+      "notes": "",
+      "position": {
+        "lat": "42.47301611509417",
+        "lng": "-3.055283566926351"
+      }
+    },
+    {
+      "id": "077f",
+      "cityName": "Pommiers",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-04-16T18:13:52.619Z",
+      "notes": "",
+      "position": {
+        "lat": "46.52901089254441",
+        "lng": "1.6440503492041452"
+      }
+    },
+    {
+      "id": "2b58",
+      "cityName": "Nogueras",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-23T13:54:23.387Z",
+      "notes": "",
+      "position": {
+        "lat": "41.13035273204024",
+        "lng": "-1.0546875000000002"
+      }
+    }
+  ]
+}
